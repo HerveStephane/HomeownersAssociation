@@ -1,6 +1,7 @@
 import React from 'react';
 import andreas from '../assets/andreas.png';
-
+import maria from '../assets/maria.jpg';
+import karl from '../assets/karl.jpg';
 const boardMembers = [
   {
     name: 'Andreas Langrock',
@@ -10,12 +11,12 @@ const boardMembers = [
   {
     name: 'Karl Langrock',
     role: 'Stellvertretender Vorsitzender',
-    image: andreas,
+    image: karl,
   },
   {
     name: 'Maria Dietrich',
     role: 'Buchhalterin',
-    image: andreas,
+    image: maria,
   },
 ];
 
