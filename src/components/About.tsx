@@ -1,20 +1,21 @@
 import React from 'react';
+import andreas from '../assets/andreas.png';
 
 const boardMembers = [
   {
     name: 'Andreas Langrock',
     role: 'Vorstandsvorsitzende',
-    image: 'public/images/andreas.png',
+    image: andreas,
   },
   {
     name: 'Karl Langrock',
     role: 'Stellvertretender Vorsitzender',
-    image: 'public/images/andreas.png',
+    image: andreas,
   },
   {
     name: 'Maria Dietrich',
     role: 'Buchhalterin',
-    image: 'public/images/andreas.png',
+    image: andreas,
   },
 ];
 
