@@ -4,17 +4,17 @@ const boardMembers = [
   {
     name: 'Andreas Langrock',
     role: 'Vorstandsvorsitzende',
-    image: 'public/images/andreas.jpg',
+    image: 'public/images/andreas.png',
   },
   {
     name: 'Karl Langrock',
     role: 'Stellvertretender Vorsitzender',
-    image: 'public/images/karl.jpg',
+    image: 'public/images/andreas.png',
   },
   {
     name: 'Maria Dietrich',
     role: 'Buchhalterin',
-    image: 'public/images/maria.jpg',
+    image: 'public/images/andreas.png',
   },
 ];
 
